@@ -37,6 +37,13 @@ section {
     text-align: center;
 }
 
+.profile-picture {
+            width: 100px;
+            height: 100px;
+            object-fit: cover; /* Maintain aspect ratio and cover container */
+            border-radius: 50%; /* Create a circular profile picture */
+        }
+
 .cta-button {
     display: inline-block;
     padding: 10px 20px;
