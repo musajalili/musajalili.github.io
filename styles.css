@@ -38,6 +38,7 @@ section {
 }
 .bio{
     text-align: left;
+    width: 600px;
 }
 .profile-picture {
             width: 90px;
