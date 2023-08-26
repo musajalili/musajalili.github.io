@@ -39,7 +39,7 @@ section {
 .bio{
     text-align: justify;
     text-justify: inter-word;
-    padding: 20px;
+    left: 20px;
     text-align: left;
     width: 600px;
 }
