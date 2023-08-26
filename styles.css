@@ -37,7 +37,8 @@ section {
     text-align: center;
 }
 .bio{
-    text-justify: auto;
+    text-align: justify;
+    text-justify: inter-word;
     padding: 20px;
     text-align: left;
     width: 600px;
